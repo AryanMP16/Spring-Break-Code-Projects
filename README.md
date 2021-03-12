@@ -1,2 +1,2 @@
-# AI
-Spring Break AI Project with JChisholm204
+# Spring break programming projects that we did just for fun
+Done with jchisholm204
