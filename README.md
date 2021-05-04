@@ -1,1 +1,1 @@
-# Dumb stuff I work on when I'm bored
+# Stuff I work on when I'm bored
